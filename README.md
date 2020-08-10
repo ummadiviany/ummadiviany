@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [Visitor Count](https : //profile-counter.glitch.me/ummadiviany/count.svg) %
 --->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ummadiviany)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ummadiviany&show_icons=true&theme=radical)]
