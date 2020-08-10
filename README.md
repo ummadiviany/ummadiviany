@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](intro.gif)
+
+![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif)
 
 
 **ummadiviany/ummadiviany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
