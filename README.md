@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: Loves group travelling
 
-![Visitor Count](https : //profile-counter.glitch.me/ummadiviany/count.svg)
+<!--- 
+[Visitor Count](https : //profile-counter.glitch.me/ummadiviany/count.svg) %
+--->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ummadiviany)]
