@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ummadiviany&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummadiviany)
+<img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[ummadivinay]"/>
