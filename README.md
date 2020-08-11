@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on *Robotics, Computer Vision* 
-- 🌱 I’m currently learning *Robot Operating System* 
+- 🔭 I’m currently working on **Robotics, Computer Vision** 
+- 🌱 I’m currently learning **Robot Operating System, Gazebo, Algorithms**
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
-- 💬 Ask me about 
+- 💬 Ask me about **Python**
 - 📫 How to reach me: ummadi.vinay2000@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: Loves group travelling
+- 😄 Pronouns: **Maker, Engineer, Developer,  **
+- ⚡ Fun fact: **Loves Nature travelling, My playlist loops when stressed**
 
 #### Social Connect
 <p align="center">
