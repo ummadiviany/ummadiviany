@@ -2,8 +2,6 @@
 
 ![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Robotics, Computer Vision,Natural Language Processing** 
 - 🌱 I’m currently learning **Robot Operating System, Gazebo, Algorithms**
 - 👯 I’m looking to collaborate on 
@@ -14,12 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Loves Nature travelling, My playlist loops when stressed**
 
 #### Social Connect
-<p align="center">
+<p align="left">
 <a href= "https://www.linkedin.com/in/ummadivinay/"><img height="64" width="64" src="https://simpleicons.org/icons/linkedin.svg" /></a>
 <a href= "https://twitter.com/ummadi_vinay"><img height="64" width="64" src="https://simpleicons.org/icons/twitter.svg" /></a>
 <a href ="https://github.com/ummadiviany"><img height="64" width="64" src="https://simpleicons.org/icons/github.svg" /></a>
- <a href ="ummadi.vinay2000@gmail.com"><img height="64" width="64" src="https://simpleicons.org/icons/gmail.svg" /></a>
- <a href ="https://facebook.com/ummadivinay2000"><img height="64" width="64" src="https://simpleicons.org/icons/facebook.svg" /></a>
+<a href ="ummadi.vinay2000@gmail.com"><img height="64" width="64" src="https://simpleicons.org/icons/gmail.svg" /></a>
+<a href ="https://facebook.com/ummadivinay2000"><img height="64" width="64" src="https://simpleicons.org/icons/facebook.svg" /></a>
 </p>
 
 <!--- 
