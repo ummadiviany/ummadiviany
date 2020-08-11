@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋       ![Profile views](https://gpvc.arturio.dev/ummadiviany)
 ![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif)
 
 - 🔭 I’m currently working on **Robotics, Computer Vision,Natural Language Processing** 
@@ -10,6 +9,7 @@
 - 📫 How to reach me: ummadi.vinay2000@gmail.com
 - 😄 Pronouns: **Maker, Engineer, Developer**
 - ⚡ Fun fact: **Loves Nature travelling, My playlist loops when stressed**
+
 
 #### Social Connect
 <p align="left">
