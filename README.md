@@ -1,5 +1,5 @@
 ### Hi there 👋       ![Profile views](https://gpvc.arturio.dev/ummadiviany)
-![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif)
+![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://vb1z0.csb.app/)
 
 - 🔭 I’m currently working on **Robotics, Computer Vision,Natural Language Processing** 
 - 🌱 I’m currently learning **Robot Operating System, Gazebo, Algorithms**
@@ -24,6 +24,8 @@
 [Visitor Count](https : //profile-counter.glitch.me/ummadiviany/count.svg) %
 <img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[ummadivinay]"/>
 **ummadiviany/ummadiviany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://vb1z0.csb.app/
+https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif
 
 --->
 
