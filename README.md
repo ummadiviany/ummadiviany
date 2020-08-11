@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Robot Operating System, Gazebo, Algorithms**
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,OpenCV**
 - 📫 How to reach me: ummadi.vinay2000@gmail.com
 - 😄 Pronouns: **Maker, Engineer, Developer**
 - ⚡ Fun fact: **Loves Nature travelling, My playlist loops when stressed**
