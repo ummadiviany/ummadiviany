@@ -1,5 +1,5 @@
 ### Hi there 👋       ![Profile views](https://gpvc.arturio.dev/ummadiviany)
-![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://vb1z0.csb.app/)
+![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/bio.gif)
 
 - 🔭 I’m currently working on **Robotics, Computer Vision,Natural Language Processing** 
 - 🌱 I’m currently learning **Robot Operating System, Gazebo, Algorithms**
@@ -26,6 +26,7 @@
 **ummadiviany/ummadiviany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://vb1z0.csb.app/
 https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif
+https://vb1z0.csb.app/
 
 --->
 
