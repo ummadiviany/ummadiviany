@@ -2,12 +2,6 @@
 
 ![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/intro.gif)
 
-
-![Visits Badge](https://badges.pufler.dev/visits/ummadiviany/git-badges)
-
-
-**ummadiviany/ummadiviany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Robotics, Computer Vision* 
@@ -19,9 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: Loves group travelling
 
+#### Social Connect
+<p align="center">
+<a href= "https://www.linkedin.com/in/ummadivinay/"><img height="64" width="64" src="https://simpleicons.org/icons/linkedin.svg" /></a>
+<a href= "https://twitter.com/ummadi_vinay"><img height="64" width="64" src="https://simpleicons.org/icons/twitter.svg" /></a>
+<a href ="https://github.com/ummadiviany"><img height="64" width="64" src="https://simpleicons.org/icons/github.svg" /></a>
+ <a href ="ummadi.vinay2000@gmail.com"><img height="64" width="64" src="https://simpleicons.org/icons/gmail.svg" /></a>
+ <a href ="https://facebook.com/ummadivinay2000"><img height="64" width="64" src="https://simpleicons.org/icons/facebook.svg" /></a>
+</p>
+
 <!--- 
 [Visitor Count](https : //profile-counter.glitch.me/ummadiviany/count.svg) %
 <img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[ummadivinay]"/>
+**ummadiviany/ummadiviany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --->
 
