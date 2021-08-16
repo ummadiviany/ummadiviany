@@ -1,14 +1,13 @@
 ### Hi there 👋       ![Profile views](https://gpvc.arturio.dev/ummadiviany)
 ![Hey there, I'm Vinay. I'm a Developer, a maker work on ML/AI. Check out my work](https://github.com/ummadiviany/ummadiviany/blob/master/bio1.gif)
 
-- 🔭 I’m currently working on **Robotics, Computer Vision,Natural Language Processing** 
-- 🌱 I’m currently learning **Robot Operating System, Gazebo, Algorithms**
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about **Python,OpenCV**
+- 🔭 I’m currently working on **Machine Learning, Computer Vision** 
+- 🌱 I’m currently learning **Statistics, Data Analytics, Algorithms**
+- 👯 I’m looking to collaborate on **Open Hackathons, New projects on Vision**
+- 💬 Ask me about **Python**
 - 📫 How to reach me: ummadi.vinay2000@gmail.com
 - 😄 Pronouns: **Maker, Engineer, Developer**
-- ⚡ Fun fact: **Loves Nature travelling, My playlist loops when stressed**
+- ⚡ Fun fact: **Loves nature travelling, wildlife camping**
 
 
 #### Social Connect
