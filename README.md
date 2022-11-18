@@ -29,7 +29,7 @@ https://vb1z0.csb.app/
 --->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ummadiviany&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummadiviany)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummadiviany) -->
 
 
 
