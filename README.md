@@ -12,11 +12,10 @@
 
 #### Social Connect
 <p align="left">
-<a href= "https://www.linkedin.com/in/ummadivinay/"><img height="64" width="64" src="https://simpleicons.org/icons/linkedin.svg" /></a>
-<a href= "https://twitter.com/ummadi_vinay"><img height="64" width="64" src="https://simpleicons.org/icons/twitter.svg" /></a>
+<a href= "https://www.linkedin.com/in/vinayummadi/"><img height="64" width="64" src="https://simpleicons.org/icons/linkedin.svg" /></a>
+<a href= "https://twitter.com/vinayummadi"><img height="64" width="64" src="https://simpleicons.org/icons/twitter.svg" /></a>
 <a href ="https://github.com/ummadiviany"><img height="64" width="64" src="https://simpleicons.org/icons/github.svg" /></a>
 <a href ="ummadi.vinay2000@gmail.com"><img height="64" width="64" src="https://simpleicons.org/icons/gmail.svg" /></a>
-<a href ="https://facebook.com/ummadivinay2000"><img height="64" width="64" src="https://simpleicons.org/icons/facebook.svg" /></a>
 </p>
 
 <!--- 
